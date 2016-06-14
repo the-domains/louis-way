@@ -1,0 +1,28 @@
+name: LOUIS WAY
+favicon: null
+layout_spectrum: 0.13101679203100502
+typography_spectrum: 0.37515326705761254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.03721106820739806
+  lightness: 0.8359431005083025
+  saturation: 0.9633527914993465
+  rhythmicContrast: 0.40141874901019037
+purpose: []
